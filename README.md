@@ -1,0 +1,2 @@
+# Customer-Experience-Analytics-Linking-NPS-to-Issue-Resolution-Performance
+This repository features a data analysis and visualization project focused on evaluating Customer NPS, analyzing issue resolution efficiency, and assessing team performance. The goal is to provide actionable insights into customer satisfaction and operations by linking feedback (NPS) directly to service delivery metrics (resolution time, volume).
