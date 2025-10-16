@@ -97,6 +97,7 @@ The SQL queries were used for initial data preparation and specific aggregations
 ![NPS Calculation](https://github.com/CecilEkka/Customer-Experience-Analytics-Linking-NPS-to-Issue-Resolution-Performance/blob/main/Images/sql/nps_score_result3.png)
 
 - Issue-wise Aggregation: Grouping data by Issue_2_NPS to determine individual issue volumes and NPS components for subsequent analysis.
+
 ![Issue-wise Aggregation](https://github.com/CecilEkka/Customer-Experience-Analytics-Linking-NPS-to-Issue-Resolution-Performance/blob/main/Images/sql/issue_wise_nps_result.png)
 
 ### DAX (Data Analysis Expressions) Usage (Nps_Dax.pdf)
