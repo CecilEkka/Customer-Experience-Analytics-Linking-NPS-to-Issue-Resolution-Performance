@@ -11,6 +11,8 @@ The primary objective of this project is to create a dynamic, single-source-of-t
 - Evaluate Operational Efficiency: Monitor key service delivery metrics, including ticket volume trends, resolution times, and team performance.
 - Connect Feedback to Action: Provide an analytical foundation to link low NPS scores with specific, quantifiable resolution inefficiencies, allowing management to prioritize improvements.
 
+https://github.com/user-attachments/assets/a4079c7d-cb20-444e-adf1-337d173119d8
+
 ## 📋 Table of Contents
 
 - [Dataset Explanation](#-dataset-explanation)  
